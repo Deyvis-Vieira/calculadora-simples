@@ -9,7 +9,8 @@ Projeto criado para praticar lógica de programação.
 - Divisão
 
 ## Tecnologias usadas
-- (coloca aqui: Java, Python, etc)
+- Python
+- Lógica de programação
 
 ## Autor
 - Deyvison Vieira
